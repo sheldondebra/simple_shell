@@ -1,6 +1,11 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
+/*
+ * File: shell.h
+ * Auth: Prosper Mawuli Auayigah
+ *       Sheldon debra
+ */
 
 
 #include <fcntl.h>
